@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gerardo226
+- 👋 Hi, I’m @Gerardo
 - 👀 I’m interested in  Data scienc
 - 🌱 I’m currently learning  machine learning 
 - 💞️ I’m looking to collaborate on projects
