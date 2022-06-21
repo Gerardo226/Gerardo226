@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gerardo
-- 👀 I’m interested in  Data scienc
-- 🌱 I’m currently learning  machine learning 
+- 👀 I’m interested in  Data science
+- 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me alvarez.gerardo12@yahoo.com
 
